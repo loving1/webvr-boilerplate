@@ -10,6 +10,8 @@ support if the [WebVR API](spec) is not implemented.
 [three]: http://threejs.org/
 [polyfill]: https://github.com/borismus/webvr-polyfill
 
+Edits for {Lumenora} project.
+
 ## Projects that use the webvr-polyfill or webvr-boilerplate
 
 Assorted platforms:
